@@ -1,0 +1,23 @@
+.Box1{
+border: 1px solid #DCDCDC;
+box-shadow: 10px 10px 8px #D3D3D3;
+width: 200;
+height: 500;
+margin: 0em;
+padding: 0.5em;
+float: left;
+}
+li {
+    list-style: none;
+}
+
+.Box2{
+border: 1px solid #DCDCDC;
+  width: 200;
+  height: 300;
+  margin-left: : 2px;
+
+  padding-right: 6px;
+  padding-left: 3px;
+  float: left;
+}
